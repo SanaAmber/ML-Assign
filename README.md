@@ -37,30 +37,6 @@ By working through this tutorial, you will be able to:
 
 ---
 
-## 📁 Repository Structure
-
-```
-gradient-boosting-tutorial/
-│
-├── world_happiness_tutorial.ipynb   # Main Jupyter Notebook (complete tutorial + code)
-│
-├── figures/                         # All generated visualisations
-│   ├── 01_algorithm_comparison.png  # R² and RMSE comparison across 5 models
-│   ├── 02_hyperparameter_tuning.png # Effect of learning rate, depth, n_estimators
-│   ├── 03_feature_importance.png    # Feature importance bar chart
-│   ├── 04_shap_summary.png          # SHAP beeswarm summary plot
-│   ├── 05_shap_dependence.png       # SHAP dependence plot (GDP vs Social Support)
-│   └── 06_prediction_analysis.png  # Predicted vs actual + residuals diagnostics
-│
-├── report/
-│   └── ML_Tutorial_Gradient_Boosting_SanaAmber.docx  # Written tutorial report
-│
-├── README.md                        # This file
-└── LICENSE                          # MIT Licence
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
